@@ -1,0 +1,2 @@
+# SuperSimpleKANTANSWITCH
+Super Simple KANTAN SWITCH for CH32V003
